@@ -1,4 +1,4 @@
-Warning: This project was created in 2009 and has not been updated since. It was migrated from code.google.com when Google shutdown code hosting. I recommend using (socket.io)[http://socket.io/] if you want to implement real time data pushing to a browser.
+Warning: This project was created in 2009 and has not been updated since. It was migrated from code.google.com when Google shutdown code hosting. I recommend using [socket.io](http://socket.io/) if you want to implement real time data pushing to a browser.
 
 ## About
 I've had many questions regarding my project [moo-comet](https://github.com/benhutchins/moo-comet), a comet implementation using Mootools and then recently I needed to get real time updates working on a project of my own, however my implementation was thrown together a while ago, when Comet was new and shy to the Internet world. I then decided to recreate my script in a method that would add more stability.
